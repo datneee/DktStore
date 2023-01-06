@@ -1,0 +1,4 @@
+#Bật chế độ rewrite
+RewriteEngine On
+#rewite đường dẫn /hello ->index.php
+RewriteRule ^hello.html$ index.php
